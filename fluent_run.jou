@@ -1,0 +1,8 @@
+; Fluent Batch Journal Script
+/file/read-case-data "missile_fin.cas.h5"
+/solve/initialize/hyb-initialization
+/solve/iterate 200
+/report/drag-coefficient fin_wall () yes "cd_result.out"
+/report/lift-coefficient fin_wall () yes "cl_result.out"
+/file/write-case-data "missile_fin_solved.cas.h5"
+/exit yes
