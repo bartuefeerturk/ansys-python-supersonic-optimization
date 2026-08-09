@@ -39,5 +39,7 @@ This project establishes an automated Python pipeline that interacts with ANSYS 
 ## How to Run
 
 1. Clone the repository:
-```text
-git clone [https://github.com/bartuefeerturk/ansys-fluent-python-automation.git](https://github.com/bartuefeerturk/ansys-fluent-python-automation.git)
+   `git clone [https://github.com/bartuefeerturk/ansys-fluent-python-automation.git](https://github.com/bartuefeerturk/ansys-fluent-python-automation.git)`
+
+2. Execute the automated optimization script:
+   `python opt_script.py`
