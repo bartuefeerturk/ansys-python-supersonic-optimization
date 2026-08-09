@@ -38,6 +38,6 @@ This project establishes an automated Python pipeline that interacts with ANSYS 
 
 ## How to Run
 
-1. Clone the repository:
+
 1. Clone the repository:
    `git clone github.com/bartuefeerturk/ansys-fluent-python-automation.git`
