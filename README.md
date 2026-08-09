@@ -39,6 +39,5 @@ This project establishes an automated Python pipeline that interacts with ANSYS 
 ## How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/bartuefeerturk/ansys-fluent-python-automation.git]
-   
+```bash
+git clone [https://github.com/bartuefeerturk/supersonic-nozzle-cfd-analysis.git](https://github.com/bartuefeerturk/supersonic-nozzle-cfd-analysis.git)
